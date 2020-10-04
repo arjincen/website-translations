@@ -42,9 +42,9 @@ LOGIN: Giriş yap
 MANAGE_ACCOUNT: null
 NAVIGATION: Navigasyon
 NEWS: Yenilik
-ONLINE: Açık
-OFFLINE: Kapalı
-PLAY_NOW: Spielen!
+ONLINE: Çevrimiçi
+OFFLINE: Çevrimdışı
+PLAY_NOW: Hemen Oyna!
 PRIVACY: Gizlilik Politikası
 RANKING: Sınıflama
 READ_MORE: null
@@ -54,7 +54,7 @@ REGISTER: Kayıt ol
 SERVER:
   INFO: ~
   TITLE: ~
-  STATUS: Server durumu
+  STATUS: Sunucu Durumu
 SUPPORT: Destek
 TOS:
   ACCEPT: null
